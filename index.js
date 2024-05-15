@@ -1,7 +1,7 @@
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const { GoogleGenerativeAI } = require("@google/generative-ai");
-const config = require('../whatsgpt/src/config.json');
+const config = require('./src/assets/config.json');
 
 // Prompt inicial para a IA
 const prompt = `Você é um assistente virtual chamado Javis`;

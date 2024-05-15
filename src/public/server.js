@@ -1,6 +1,6 @@
 // Import required modules
 const express = require('express');
-const client = require("./index.js");
+const client = require("../../index.js");
 
 // Create an Express application
 const app = express();
