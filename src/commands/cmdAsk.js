@@ -1,5 +1,5 @@
 const { GoogleGenerativeAI } = require("@google/generative-ai");
-const config = 'AIzaSyBHjRPac_TkNZC1helm3AscXr5de3cuOYM';
+const config = require('../config/config.json')
 const genAI = new GoogleGenerativeAI(config);
 const ai = genAI.getGenerativeModel({
     model: "gemini-pro"
