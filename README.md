@@ -55,15 +55,3 @@ Quando você iniciar o bot pela primeira vez, uma nova janela do navegador será
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Agradecimentos
-
-- [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - Biblioteca usada para interagir com o WhatsApp Web.
-
----
-
-Isso deve fornecer uma visão geral abrangente do seu projeto, além de instruções claras sobre como configurá-lo e executá-lo.
